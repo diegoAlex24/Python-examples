@@ -6,7 +6,7 @@ Este repositorio está dirigido a todas las personas que buscan aprender o repas
 
 ![Image Python](https://raw.githubusercontent.com/diegoAlex24/Python-examples/master/Python-logo.png)
 
-### PHP
+### Python
 Todos los códigos son recopilatorios de diversos tutoriales, tareas y ejemplos de internet.
 
 ```python
