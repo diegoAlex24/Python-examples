@@ -16,7 +16,38 @@ Todos los códigos son recopilatorios de diversos tutoriales, tareas y ejemplos 
 ### Contenido
 
 1. programa_1.py
-    * 
+    * Python 2
+        * Comentarios
+
+2. programa_2.py
+    * Python 3
+        * Comentarios unilinea
+        * Comentarios multilinea
+        * Importación de librerias
+			* Importación con alias
+        * Impresión de consola
+        * Variables
+        * Operadores aritméticos
+		* Definicion de la funcion main
+		* Obtener entrada del teclado
+		* Obtener tipo de dato de una variable
+		* Conversión a un tipo de dato específico
+		* Condiciones
+			* If else
+		* Llamada a función
+		
+3. programa_3.py
+	* Python con interfaz gráfica
+		* Importamos el módulo para interfaz gráfica
+		* Crea la ventana
+			* Define variable
+			* Define tamaño
+			* Define título
+		* Ejecución del programa
+	
+4. programa_4.py
+	* Python con Django
+		* Instrucciones para crear un proyecto
 
 [Repositorio](https://github.com/diegoAlex24/Python-examples).
 
