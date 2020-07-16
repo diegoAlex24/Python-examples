@@ -44,12 +44,15 @@ def main():
     # Obtener entrada del teclado
     # Muestra el texo y guarda la entrada del teclado en la variable
     nombre = input('Nombre: ')
+    # Se puede utilizar input sin parametros
     print('Hola ', nombre)
     edad = input('Edad: ')
     # Obtener tipo de dato de una variable
     print(type(edad))
     # Convertir a un tipo de dato específico
     edad = int(edad)
+    print(type(edad))
+    edad = float(edad)
     print(type(edad))
 
     # Condiciones

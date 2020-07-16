@@ -47,7 +47,7 @@ Todos los códigos son recopilatorios de diversos tutoriales, tareas y ejemplos 
 	
 4. programa_4.py
 	* Python con Django
-		* Instrucciones para crear un proyecto
+		* Instrucciones para crear el proyecto
 
 [Repositorio](https://github.com/diegoAlex24/Python-examples).
 
