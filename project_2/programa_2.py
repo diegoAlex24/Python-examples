@@ -25,8 +25,12 @@ numeroEntero = 9
 numeroReal = 93.3
 booleanoVerdadero = True
 booleanoFalso = False
+# Multiple declaracion y asignación
+x, y = 10, 20
+
 
 print(cadena)
+print(x, y)
 
 # Operadores aritméticos
 # + - * / % ** //
@@ -63,6 +67,12 @@ def main():
     # En caso de no cumplise la condicion se efectuara la parte indentata del else
     else:
         print("Eres menor de edad")
+
+    # Operadores lógicos
+    print(True and False)
+    print(True or False)
+    print(not False)
+    
 
 # Llamada a función
 main()

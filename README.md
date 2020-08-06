@@ -27,6 +27,7 @@ Todos los códigos son recopilatorios de diversos tutoriales, tareas y ejemplos 
 			* Importación con alias
         * Impresión de consola
         * Variables
+			* Multiple declaración y asignación
         * Operadores aritméticos
 		* Definicion de la funcion main
 		* Obtener entrada del teclado
@@ -34,6 +35,7 @@ Todos los códigos son recopilatorios de diversos tutoriales, tareas y ejemplos 
 		* Conversión a un tipo de dato específico
 		* Condiciones
 			* If else
+		* Operadores lógicos
 		* Llamada a función
 		
 3. programa_3.py
