@@ -12,5 +12,13 @@ ventana.geometry("720x480")
 # Define título de la ventana
 ventana.title("Hola Python")
 
+# Variable con botón
+bottonHola = tkinter.Button(text="Hola")
+bottonMundo = tkinter.Button(text="Mundo")
+
+# Agrega el botón en la ventana
+bottonHola.pack()
+bottonMundo.pack()
+
 # Ejecución del programa con la ventana
 ventana.mainloop()

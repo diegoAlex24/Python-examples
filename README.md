@@ -45,6 +45,8 @@ Todos los códigos son recopilatorios de diversos tutoriales, tareas y ejemplos 
 			* Define variable
 			* Define tamaño
 			* Define título
+		* Crea botón
+		    * Agrega el botón a la ventana
 		* Ejecución del programa
 	
 4. programa_4.py
