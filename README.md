@@ -18,6 +18,7 @@ Todos los códigos son recopilatorios de diversos tutoriales, tareas y ejemplos 
 1. programa_1.py
     * Python 2
         * Comentarios
+        * Operaciones aritméticas
 
 2. programa_2.py
     * Python 3
