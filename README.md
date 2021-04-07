@@ -53,6 +53,14 @@ Todos los códigos son recopilatorios de diversos tutoriales, tareas y ejemplos 
 4. programa_4.py
 	* Python con Django
 		* Instrucciones para crear el proyecto
+		
+5. programa_5.py
+    * Gráficas con Python 3 y Matplotlib
+        * Importación
+        * Definición de arreglos X,Y
+        * Título de gráfica
+        * Leyenda para los eje X,Y
+        * Función para mostrar gráfica
 
 [Repositorio](https://github.com/diegoAlex24/Python-examples).
 

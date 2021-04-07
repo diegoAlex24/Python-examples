@@ -1,3 +1,4 @@
+# coding=utf-8
 # Importamos el módulo para la interfaz gráfica
 import tkinter
 

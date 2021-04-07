@@ -1,3 +1,4 @@
+# coding=utf-8
 # Comentarios unilinea en Python 3
 """ Comentarios
     multilinea
@@ -6,9 +7,9 @@
     3
 """
 # Se importan librerias para usar
-import random
-import sys # Funciones del sistema
-import os # Funciones del sistema operativo
+# import random
+# import sys  # Funciones del sistema
+# import os  # Funciones del sistema operativo
 
 # importación con alias
 # Libreria para gráficar
@@ -28,19 +29,19 @@ booleanoFalso = False
 # Multiple declaracion y asignación
 x, y = 10, 20
 
-
 print(cadena)
 print(x, y)
 
 # Operadores aritméticos
 # + - * / % ** //
-print ("5 + 2 = ", 5 + 2) # Suma
-print ("5 - 2 = ", 5 - 2) # Resta
-print ("5 * 2 = ", 5 * 2) # Multiplicación
-print ("5 / 2 = ", 5 / 2) # División
-print ("5 % 2 = ", 5 % 2) # Módulo
-print ("5 ** 2 = ", 5 ** 2) # Potencia
-print ("5 // 2 = ", 5 // 2) # Division redondeada
+print ("5 + 2 = ", 5 + 2)  # Suma
+print ("5 - 2 = ", 5 - 2)  # Resta
+print ("5 * 2 = ", 5 * 2)  # Multiplicación
+print ("5 / 2 = ", 5 / 2)  # División
+print ("5 % 2 = ", 5 % 2)  # Módulo
+print ("5 ** 2 = ", 5 ** 2)  # Potencia
+print ("5 // 2 = ", 5 // 2)  # Division redondeada
+
 
 # Definición de funcion main
 def main():
@@ -62,7 +63,7 @@ def main():
     # Condiciones
     # Checa si la variable es mayor o igual al otro valor
     # En caso que la condicion sea verdadera se ejecutará la parte indentada dentro del if
-    if(edad >= 18): 
+    if edad >= 18:
         print("Eres mayor de edad")
     # En caso de no cumplise la condicion se efectuara la parte indentata del else
     else:
@@ -72,7 +73,7 @@ def main():
     print(True and False)
     print(True or False)
     print(not False)
-    
+
 
 # Llamada a función
 main()
