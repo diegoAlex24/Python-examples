@@ -18,3 +18,6 @@ print(9 % 2)
 print(2 ** 4)
 # La precedencia de operaciones en Python primero potencia, signos, multiplicacion, division, modulo, suma y resta
 print(5 - 6 + 8 + 9 - 1 * 4 - 2 - 9 / -1 ** 2 % 5)
+
+# Cadenas
+print "Hola esto es una cadena"

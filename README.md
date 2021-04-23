@@ -10,7 +10,7 @@ Este repositorio está dirigido a todas las personas que buscan aprender o repas
 Todos los códigos son recopilatorios de diversos tutoriales, tareas y ejemplos de internet.
 
 ```python
-    print('Hola Python')
+print('Hola Python')
 ```
 
 ### Contenido
@@ -19,6 +19,7 @@ Todos los códigos son recopilatorios de diversos tutoriales, tareas y ejemplos 
     * Python 2
         * Comentarios
         * Operaciones aritméticas
+        * Cadenas
 
 2. programa_2.py
     * Python 3
