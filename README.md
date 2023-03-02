@@ -31,6 +31,7 @@ print('Hola Python')
         * Variables
 			* Multiple declaración y asignación
         * Operadores aritméticos
+        * Tipos de cadenas 
 		* Definicion de la funcion main
 		* Obtener entrada del teclado
 		* Obtener tipo de dato de una variable
@@ -39,6 +40,7 @@ print('Hola Python')
 			* If else
 		* Operadores lógicos
 		* Llamada a función
+		* Listas
 		
 3. programa_3.py
 	* Python con interfaz gráfica
